@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="668c564a-99f7-4794-81f5-72667f6f8dac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tkinter-Python-GUI-Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21vEM9F5s1PK7eHCKVMvzcUgGpY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tkinter-Python-GUI-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668c564a-99f7-4794-81f5-72667f6f8dac" name="Default Changelist" comment="" />
+      <created>1638813109989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638813109989</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding Numbers &amp; Symbols Widget">
+      <created>1638820855267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638820855267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Numbers &amp; Symbols Widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Numbers &amp; Symbols Widget" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638814159384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1638814159384" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1638820851134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1638820851134" />
+    <state x="648" y="131" key="FileChooserDialogImpl" timestamp="1638814820622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="648" y="131" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1638814820622" />
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom" timestamp="1638853053043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638853053043" />
+    <state width="1345" height="176" key="GridCell.Tab.0.center" timestamp="1638853053042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638853053042" />
+    <state width="1345" height="176" key="GridCell.Tab.0.left" timestamp="1638853053042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638853053042" />
+    <state width="1345" height="176" key="GridCell.Tab.0.right" timestamp="1638853053043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638853053043" />
+    <state x="372" y="19" key="SettingsEditor" timestamp="1638814991643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1638814991643" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1638818318801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1638818318801" />
+  </component>
+</project>
