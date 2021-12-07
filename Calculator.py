@@ -26,10 +26,28 @@ class Calculator(Frame):
             Erase = iCalc(self, TOP)
             for ichar in clearButton:
                 button(Erase, LEFT, ichar,lambda storeObj = display , q = ichar: storeObj.set(''))
-        for numButton in ("789/","123-","0.+"):
+        for numButton in ("789/","123-","456*","0.+"):
             FunctionNum = iCalc(self, TOP)
             for iEquals in numButton:
                 button(FunctionNum,LEFT,iEquals, lambda storeObj = display, q = iEquals: storeObj.set(storeObj.get()+q) )
+        EqualButton = iCalc(self,TOP)
+        for iEquals in "=":
+            if iEquals =='=':
+                btniEquals = button(EqualButton,LEFT, iEquals)
+                btniEquals.bind('<ButtonRelease-1>', lambda e,s=self,
+                                                             storeObj=display: s.calc(storeObj),'+')
+            else:
+                btniEquals = button(EqualButton,LEFT,iEquals,
+                                    lambda storeObj = display,s = ' %s '% iEquals:storeObj.set(storeObj
+                                                                                               .get() + s))
+
+    def calc(self, display):
+        try:
+            display.set(eval(display.get()))
+
+        except:
+            display.set("ERROR")
+
 
 # Start the GUI
 if __name__=='__main__':
