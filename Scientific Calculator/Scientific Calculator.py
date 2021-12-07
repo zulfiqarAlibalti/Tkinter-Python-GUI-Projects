@@ -1,3 +1,5 @@
+#Zulfiqar Ali@
+# Date 05-12-2018
 from tkinter import*
 import math
 import tkinter.messagebox
@@ -261,7 +263,7 @@ btnDot = Button(calc, text = ".", width = 6, height = 2, bg = 'blue',
 
 btnPM = Button(calc, text = chr(177), width = 6, height = 2, bg = 'blue',
                   fg = 'white',font = ('Helvetica',20, 'bold'),bd = 4,
-                  command = lambda:added_value.numberEnter.mathPM).grid(row = 5, column = 2, pady = 1)
+                  command = lambda:added_value.mathPM).grid(row = 5, column = 2, pady = 1)
 
 btnEquals = Button(calc, text = "=", width = 6, height = 2, bg = 'blue',
                   fg= 'white',font = ('Helvetica',20, 'bold'),bd = 4,
